@@ -26,4 +26,4 @@ Northwestern Polytechnical University | ECE | 2015
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hynpu&layout=compact)](https://github.com/hynpu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hynpu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
